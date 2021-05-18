@@ -31,7 +31,7 @@ INSTRUCTIONS REGARDING ANIMATIONS:-
 5) when animation start playing the "abort animation button" will be active.
 6) you can click on that button to abort the animation.
 
-
+if you feel any bug open a issue.
 
 #workinprogess
 #graph_algorithms
