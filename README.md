@@ -15,6 +15,12 @@ INSTRUCTIONS REGARDING NODES:-
 1) to add a node choose the "add" button from the above panel and click on the workspace a node will be added.
 2) to delete a node choose the delete button from above pane and click on the node ,the node will be deleted.
 3) to connect two nodes choose the connect button, click on a node the node will be foccused, now click on other nodes to connect the foccused, to remove the foccus click on a empty place the current foccused node will be removed.
+4)you can choose the type of connection to add between nodes ,the following are the supported types:-
+		"unidirectional unweighted"
+		"directional unweighted"
+		"unidirectional weighted"
+		"directional weighted"
+
 4)to delete a connection between two nodes,again repeat the process of connection, the node will be disconnected.
 5)to move a node choose the move button, and now you can drag and drop the nodes to desired position. 
 
